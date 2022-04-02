@@ -15,5 +15,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"description": "A project that helps me learn",
-	"keywords": [ "descriptive", "freecodecamp", "words" ]
+	"keywords": [ "descriptive", "freecodecamp", "words" ],
+	"license": "MIT"
 }
