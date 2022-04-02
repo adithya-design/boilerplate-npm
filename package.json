@@ -14,5 +14,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"description": "A project that helps me learn"
+	"description": "A project that helps me learn",
+	"keywords": [ "descriptive", "freecodecamp", "words" ]
 }
