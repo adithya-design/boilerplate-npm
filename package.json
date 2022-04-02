@@ -16,5 +16,6 @@
 	},
 	"description": "A project that helps me learn",
 	"keywords": [ "descriptive", "freecodecamp", "words" ],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "0.0"
 }
