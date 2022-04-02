@@ -3,7 +3,6 @@
 	"author": {
 		"name": "adithya"
 	},
-	"description": "A project that helps me learn",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -14,5 +13,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"description": "A project that helps me learn",
 }
